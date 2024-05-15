@@ -3,6 +3,10 @@
 
 The Data is sourced from https://www.kaggle.com/datasets/nelgiriyewithana/new-york-housing-market
 
+# Overview
+This project aims to provide a comprehensive analysis and visualization of house prices across New York. By integrating machine learning models and geographic mapping, we look into how property values vary by location, allowing for an intuitive understanding of market trends and pricing hotspots in one of the world's most dynamic real estate markets.
+
+
 ## Dataset
 The dataset includes the following attributes:
 
