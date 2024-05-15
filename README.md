@@ -20,3 +20,15 @@ The dataset includes the following attributes:
 
 *LATITUDE and LONGITUDE*: Geographical coordinates of the property.
 
+
+## Models 
+These are the following machine learning models we looked in our project:
+
+* Linear Regression
+* Lasso Regression
+* Random Forest
+* Polynomial Regression
+* Decision Tree
+* K - Nearest Neighbors
+* Neural Network
+
